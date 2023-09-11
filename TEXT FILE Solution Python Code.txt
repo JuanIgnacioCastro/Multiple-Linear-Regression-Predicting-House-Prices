@@ -8,7 +8,7 @@
 #
 # NOTES: The code below only accepts user input. Based on the "input format" rules (they can be found in the pdf file Problem: predicting-house-prices)
 
-#For the code to accept CSV, or Text file make the following change FROM LINE 35 TO 56
+#For the code to accept CSV, or Text file make the following change FROM LINE 35 TO 57
 
 # with open('[FILENAME]') as f:
 #    # read first line
